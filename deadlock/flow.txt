@@ -1,0 +1,4 @@
+1. define total(if given), alloc, max, need and avail arrays
+2. take i/ps for alloc, max and avail(if required)
+3. define finish, safe, and k=0
+4. check if need <= avail for all types of processes, if yes then free resources and mark as finished
